@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alfred Eneström\\OneDrive\\develop\\projects\\OPF\\EFC-Demo00\\EFDemo00\\EFDemo00.csproj": {}
+    "C:\\Users\\enest\\OneDrive\\develop\\projects\\OPF\\EFC-Demo00\\EFDemo00\\EFDemo00.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alfred Eneström\\OneDrive\\develop\\projects\\OPF\\EFC-Demo00\\EFDemo00\\EFDemo00.csproj": {
+    "C:\\Users\\enest\\OneDrive\\develop\\projects\\OPF\\EFC-Demo00\\EFDemo00\\EFDemo00.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alfred Eneström\\OneDrive\\develop\\projects\\OPF\\EFC-Demo00\\EFDemo00\\EFDemo00.csproj",
+        "projectUniqueName": "C:\\Users\\enest\\OneDrive\\develop\\projects\\OPF\\EFC-Demo00\\EFDemo00\\EFDemo00.csproj",
         "projectName": "EFDemo00",
-        "projectPath": "C:\\Users\\Alfred Eneström\\OneDrive\\develop\\projects\\OPF\\EFC-Demo00\\EFDemo00\\EFDemo00.csproj",
-        "packagesPath": "C:\\Users\\Alfred Eneström\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alfred Eneström\\OneDrive\\develop\\projects\\OPF\\EFC-Demo00\\EFDemo00\\obj\\",
+        "projectPath": "C:\\Users\\enest\\OneDrive\\develop\\projects\\OPF\\EFC-Demo00\\EFDemo00\\EFDemo00.csproj",
+        "packagesPath": "C:\\Users\\enest\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\enest\\OneDrive\\develop\\projects\\OPF\\EFC-Demo00\\EFDemo00\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alfred Eneström\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\enest\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -36,7 +36,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
